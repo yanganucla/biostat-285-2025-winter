@@ -7,3 +7,4 @@ tensorflow
 plotly
 scikit-learn
 python-dotenv
+matplotlib  # <-- Add this line
